@@ -1,7 +1,3 @@
-#  NAME:S.DHAMINI
-## REGISTER NUMBER:212224040064
-# EX-11-EMI-CALCULATOR
-
 ## AIM
 
 To write a program to prepare EMI calculator using function without return type and with arguments.
